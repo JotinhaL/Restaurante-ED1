@@ -1,2 +1,2 @@
 # Restaurante-ED1
-Restaurante
+Todas as partes do trabalho foram feitas em conjunto via discord. O resultado do trabalho é um restaurante funcional com um sistema de recompensa de chocolate a cada cliente. Sistema perfeitamente funcional, com o TAD da melhor maneira que pensamos.
